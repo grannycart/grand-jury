@@ -4,7 +4,7 @@
 
 
 ## Notes / to dos
-* [ ] The .tex file is the original. 
+* [ ] In old-tex the grand-jury-notes.tex file was probably the one posted on tumblr. It looks like the draft-for-gehl was somewhat edited after that. You need to go in and re-read the gehl draft and resolve the differences between the two.
 
 
 ## License:
