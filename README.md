@@ -1,10 +1,11 @@
 
 # Grand Jury Notes
-* By 
+* By Mark Torrey
 
+Detailed notes of how to get the most of grand jury duty.
 
-## Notes / to dos
-* [ ] In old-tex the grand-jury-notes.tex file was probably the one posted on tumblr. It looks like the draft-for-gehl was somewhat edited after that. You need to go in and re-read the gehl draft and resolve the differences between the two.
+* The tex directory contains the LaTex version.
+* Read a compiled pdf version here: https://grannycart.net/junk-drawer/grand-jury-notes.pdf
 
 
 ## License:
